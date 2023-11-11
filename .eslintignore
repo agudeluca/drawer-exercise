@@ -1,0 +1,7 @@
+node_modules
+dist
+babel.config.js
+metro.config.js
+configs/declarations.d.ts
+index.js
+android
