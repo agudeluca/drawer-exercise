@@ -37,7 +37,7 @@
     "@typescript-eslint/semi": 0,
     "import/extensions": 0,
     "react/function-component-definition": 0,
-    "react/jsx-props-no-spreading": 1,
+    "react/jsx-props-no-spreading": 0,
     "no-param-reassign": 0,
     "allowTernary": 0,
     "@typescript-eslint/no-use-before-define": 0,
